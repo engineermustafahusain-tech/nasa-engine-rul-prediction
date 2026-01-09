@@ -70,6 +70,13 @@ This project uses **NASA CMAPSS turbofan engine sensor data** to:
 ---
 
 ## 📊 Dashboard Explanation (Graph-by-Graph)
+  ## 🎥 Dashboard Preview
+
+
+
+![Dashboard Preview](VN20260109_152205~3.gif)
+
+
 
 ---
 
